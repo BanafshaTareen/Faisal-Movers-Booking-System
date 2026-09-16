@@ -59,3 +59,10 @@ This project was developed to apply concepts of desktop application development,
 **Banafsha Tareen**  
 BS Computer Science  
 Bahauddin Zakariya University, Multan
+## Copyright
+
+© 2026 Banafsha Tareen. All rights reserved.
+
+This project was developed for educational and portfolio purposes.
+The source code may be viewed for reference, but may not be copied,
+redistributed, or presented as another person's work without permission.
